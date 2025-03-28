@@ -12,7 +12,7 @@ const CONFIG = {
   base: '/',
   projects: {
     github: {
-      display: true, // Display GitHub projects?
+      display: false, // Display GitHub projects?
       header: 'Github Projects',
       mode: 'automatic', // Mode can be: 'automatic' or 'manual'
       automatic: {
@@ -108,16 +108,16 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'OSHA 10',
-      body: 'General Health and Industry',
-      year: 'November 2023',
-      link: 'https://www.oshacardportal.com/portalapp/verify/3cd57680-2bf4-4cd9-a890-a892fb3f137c?trk=public_profile_see-credential',
-    },
-    {
       name: 'Design for Machining',
       body: 'SolidProfessor',
       year: 'August 2024',
       link: 'https://www.solidprofessor.com/certificates?id=A768FBD8-8B4F-43B3-BA5B-69F5081AC4B6&trk=public_profile_see-credential',
+    },
+    {
+      name: 'OSHA 10',
+      body: 'General Health and Industry',
+      year: 'November 2023',
+      link: 'https://www.oshacardportal.com/portalapp/verify/3cd57680-2bf4-4cd9-a890-a892fb3f137c?trk=public_profile_see-credential',
     },
   ],
   educations: [
