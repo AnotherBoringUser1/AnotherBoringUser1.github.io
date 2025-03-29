@@ -74,7 +74,7 @@ const CONFIG = {
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://www.tommasini.com',
+    website: 'https://www.tommasini.org',
     phone: '',
     email: '37943@minutemanstudent.org',
   },
@@ -104,6 +104,13 @@ const CONFIG = {
       from: 'June 2024',
       to: 'August 2024',
       companyLink: 'broomfieldusa.com',
+    },
+    {
+      company: 'FRC 6328 - Mechanical Advatage',
+      position: 'Manufacturing Lead',
+      from: '2024',
+      to: 'Present',
+      companyLink: 'littletonrobotics.org',
     },
   ],
   certifications: [
