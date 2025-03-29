@@ -89,6 +89,7 @@ const CONFIG = {
     'CNC Milling',
     '3D-Printing',
     'CAD/CAM',
+    'Assembly',
   ],
   experiences: [
     {
@@ -106,7 +107,7 @@ const CONFIG = {
       companyLink: 'broomfieldusa.com',
     },
     {
-      company: 'FRC 6328 - Mechanical Advatage',
+      company: 'FRC 6328 - Mechanical Advantage',
       position: 'Manufacturing Lead',
       from: '2024',
       to: 'Present',
