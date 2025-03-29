@@ -90,6 +90,9 @@ const CONFIG = {
     '3D-Printing',
     'CAD/CAM',
     'Assembly',
+    'Prototyping',
+    'Electronics',
+    'FIRST Robotics',
   ],
   experiences: [
     {
