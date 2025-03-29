@@ -33,11 +33,11 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'CNC Machining',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'This document outlines my CNC machining projects for an FRC robot, detailing processes and outcomes.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://www.ameritoolmfg.com/wp-content/uploads/2023/03/Machining-image-1.jpg',
           link: 'https://example.com',
         },
         {
